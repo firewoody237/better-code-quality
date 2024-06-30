@@ -2,7 +2,6 @@ plugins {
     id 'java'
 }
 
-group = 'com.firewoody'
 version = '1.0-SNAPSHOT'
 
 repositories {
